@@ -34,7 +34,7 @@ main img{
     font-size: 23px;
     font-weight: 700;
 }
-.qr-code-text h4{
+.qr-code-text p{
     color: hsl(220, 15%, 55%);
     font-size: 16px;
     font-weight: 400;
